@@ -4,7 +4,11 @@
 Generate and save a tiled image from an input image. Command line inputs:
 - path to an image file as input
 - number of tiles to be generated
-- path to output the tiled imag
+- path to output the tiled image
+
+<img src="https://github.com/piyush-jaiswal/tile-and-traverse/blob/master/inp_img.png" height="300" width="300"></img>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://github.com/piyush-jaiswal/tile-and-traverse/blob/master/out_img.png" height="300" width="300"></img>
 
 ### Traverse directory and gzip
 Display all gzipped files under the directory at any level (file can be gzipped regardless of having
