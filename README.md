@@ -1,4 +1,4 @@
-# Task
+# Tile and Traverse
 
 ### Tile Image
 Generate and save a tiled image from an input image. Command line inputs:
